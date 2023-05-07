@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Amirhossein. I'm backend developer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amooati&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
