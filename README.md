@@ -23,6 +23,12 @@ I'm working with:
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amooati&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amooati&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Contributions:
 
 [bagisto/bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Apr+author%3AAmooAti+)
@@ -44,12 +50,6 @@ Contributions:
 [orchidsoftware/platform](https://github.com/orchidsoftware/platform/pulls?q=is%3Apr+author%3AAmooAti+)
 
 [bagisto-europe/bagisto-pickup](https://github.com/bagisto-europe/bagisto-pickup/pulls?q=is%3Apr+author%3AAmooAti+)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amooati&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amooati&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **AmooAti/AmooAti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
