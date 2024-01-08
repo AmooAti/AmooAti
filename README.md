@@ -31,25 +31,25 @@ I'm working with:
 
 Contributions:
 
-[bagisto/bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Apr+author%3AAmooAti+)
+[bagisto/bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Apr+author%3AAmooAti+){:target="_blank"}
 
-[googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client/pulls?q=is%3Apr+author%3AAmooAti+)
+[googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client/pulls?q=is%3Apr+author%3AAmooAti+){:target="_blank"}
 
-[filamentphp/filament](https://github.com/filamentphp/filament/pulls?q=is%3Apr+author%3AAmooAti+)
+[filamentphp/filament](https://github.com/filamentphp/filament/pulls?q=is%3Apr+author%3AAmooAti+){:target="_blank"}
 
-[ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder/pulls?q=is%3Apr+author%3AAmooAti+)
+[ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder/pulls?q=is%3Apr+author%3AAmooAti+){:target="_blank"}
 
-[Hi-Folks/statistics](https://github.com/Hi-Folks/statistics/pulls?q=is%3Apr+author%3AAmooAti+)
+[Hi-Folks/statistics](https://github.com/Hi-Folks/statistics/pulls?q=is%3Apr+author%3AAmooAti+){:target="_blank"}
 
-[bagisto/bagisto-docs](https://github.com/bagisto/bagisto-docs/pulls?q=is%3Apr+author%3AAmooAti+)
+[bagisto/bagisto-docs](https://github.com/bagisto/bagisto-docs/pulls?q=is%3Apr+author%3AAmooAti+){:target="_blank"}
 
-[mosesdinakaran/magento-log](https://github.com/mosesdinakaran/magento-log/pulls?q=is%3Apr+author%3AAmooAti+)
+[mosesdinakaran/magento-log](https://github.com/mosesdinakaran/magento-log/pulls?q=is%3Apr+author%3AAmooAti+){:target="_blank"}
 
-[symfony/symfony](https://github.com/symfony/symfony/pulls?q=is%3Apr+author%3AAmooAti+)
+[symfony/symfony](https://github.com/symfony/symfony/pulls?q=is%3Apr+author%3AAmooAti+){:target="_blank"}
 
-[orchidsoftware/platform](https://github.com/orchidsoftware/platform/pulls?q=is%3Apr+author%3AAmooAti+)
+[orchidsoftware/platform](https://github.com/orchidsoftware/platform/pulls?q=is%3Apr+author%3AAmooAti+){:target="_blank"}
 
-[bagisto-europe/bagisto-pickup](https://github.com/bagisto-europe/bagisto-pickup/pulls?q=is%3Apr+author%3AAmooAti+)
+[bagisto-europe/bagisto-pickup](https://github.com/bagisto-europe/bagisto-pickup/pulls?q=is%3Apr+author%3AAmooAti+){:target="_blank"}
 
 <!--
 **AmooAti/AmooAti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
