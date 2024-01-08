@@ -24,15 +24,25 @@ I'm working with:
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 
 Contributions:
+
 [bagisto/bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Apr+author%3AAmooAti+)
+
 [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client/pulls?q=is%3Apr+author%3AAmooAti+)
+
 [filamentphp/filament](https://github.com/filamentphp/filament/pulls?q=is%3Apr+author%3AAmooAti+)
+
 [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder/pulls?q=is%3Apr+author%3AAmooAti+)
+
 [Hi-Folks/statistics](https://github.com/Hi-Folks/statistics/pulls?q=is%3Apr+author%3AAmooAti+)
+
 [bagisto/bagisto-docs](https://github.com/bagisto/bagisto-docs/pulls?q=is%3Apr+author%3AAmooAti+)
+
 [mosesdinakaran/magento-log](https://github.com/mosesdinakaran/magento-log/pulls?q=is%3Apr+author%3AAmooAti+)
+
 [symfony/symfony](https://github.com/symfony/symfony/pulls?q=is%3Apr+author%3AAmooAti+)
+
 [orchidsoftware/platform](https://github.com/orchidsoftware/platform/pulls?q=is%3Apr+author%3AAmooAti+)
+
 [bagisto-europe/bagisto-pickup](https://github.com/bagisto-europe/bagisto-pickup/pulls?q=is%3Apr+author%3AAmooAti+)
 
 
